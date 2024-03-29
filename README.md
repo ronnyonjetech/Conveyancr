@@ -4,7 +4,7 @@ enhancing accessibility and understanding for UK residential house buyers. The p
 is intended for property buyers, offering automated legal document analysis, key terms
 identification, and user-friendly interfaces
 
-#FrontEnd Features
+# FrontEnd Features
 + User Registration: Secure sign-up for new users.
 + Document Upload: Users can upload conveyancing documents.
 + Automated Analysis: Instant analysis of legal documents.
@@ -19,4 +19,4 @@ identification, and user-friendly interfaces
 + User Feedback: Collect user feedback for improvements.
 + Document History: Track changes and history of documents.
 + Data Visualisation: Visual representation of document analysis.
-* Security Features: Data encryption and privacy settings.
++ Security Features: Data encryption and privacy settings.
